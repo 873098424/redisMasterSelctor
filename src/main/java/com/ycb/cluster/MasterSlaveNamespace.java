@@ -1,7 +1,5 @@
 package com.ycb.cluster;
 
-import com.ycb.constant.SystemConstant;
-
 import java.lang.annotation.*;
 
 /**
